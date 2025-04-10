@@ -1,0 +1,25 @@
+{
+    "id": "shtrimelman:series",
+    "type": "series",
+    "name": "שטריימלמן",
+    "poster": "https://an2012d.github.io/shtrimelman-final-addon/poster.jpg",
+    "background": "https://an2012d.github.io/shtrimelman-final-addon/poster.jpg",
+    "description": "הסדרה האגדית על גיבור העל החרדי - שטריימלמן!",
+    "videos": [
+      { "id": "shtrimelman:1", "title": "פרק 1", "season": 1, "episode": 1 },
+      { "id": "shtrimelman:2", "title": "פרק 2", "season": 1, "episode": 2 },
+      { "id": "shtrimelman:3", "title": "פרק 3", "season": 1, "episode": 3 },
+      { "id": "shtrimelman:4", "title": "פרק 4", "season": 1, "episode": 4 },
+      { "id": "shtrimelman:5", "title": "פרק 5", "season": 1, "episode": 5 },
+      { "id": "shtrimelman:6", "title": "פרק 6", "season": 1, "episode": 6 },
+      { "id": "shtrimelman:7", "title": "פרק 7", "season": 1, "episode": 7 },
+      { "id": "shtrimelman:8", "title": "פרק 8", "season": 1, "episode": 8 },
+      { "id": "shtrimelman:9", "title": "פרק 9", "season": 1, "episode": 9 },
+      { "id": "shtrimelman:10", "title": "פרק 10", "season": 1, "episode": 10 },
+      { "id": "shtrimelman:11", "title": "פרק 11", "season": 1, "episode": 11 },
+      { "id": "shtrimelman:12", "title": "פרק 12", "season": 1, "episode": 12 },
+      { "id": "shtrimelman:13", "title": "פרק 13", "season": 1, "episode": 13 },
+      { "id": "shtrimelman:14", "title": "פרק 14", "season": 1, "episode": 14 }
+    ]
+  }
+}
